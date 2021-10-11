@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\DIO\GFT\CodigoProjetos\2-ExplorandoPadroesDeProjetoNaPraticaComJava\.metadata\.plugins\org.eclipse.jdt.core
+3613780377.index
+3419948365.index
